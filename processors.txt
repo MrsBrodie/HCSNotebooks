@@ -1,0 +1,5 @@
+Intium II,2.8,24,128
+Celerisc I,1.6,32,256
+Ethloan III,2.6,32,128
+Powerup II,1.9,64,512
+Mitduo III,3.1,24,128
